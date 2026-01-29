@@ -22,7 +22,7 @@ Quando não estou codando para o estágio, estou mexendo no meu **homelab**, ger
 ---
 
 ### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de [SeuUsuario]](https://github-readme-stats.vercel.app/api?username=Thima1290&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![Estatísticas do GitHub de Thima1290](https://github-readme-stats.vercel.app/api?username=Thima1290&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
