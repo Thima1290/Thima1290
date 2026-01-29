@@ -20,10 +20,13 @@ Estudante de Ciência da Computação e Estagiário de TI na SEAD-PI. Sou um ent
 Quando não estou codando para o estágio, estou mexendo no meu **homelab**, gerenciando servidores homemade e explorando projetos de hardware. Acredito que o aprendizado contínuo e a curiosidade são as chaves para a evolução na computação.
 
 ---
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=Thima1290&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
+</p>
 
-### 📈 Estatísticas do GitHub
-![Estatísticas do GitHub de Thima1290](https://github-readme-stats.vercel.app/api?username=Thima1290&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thima1290&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
+</p>
 ---
 
 ### 📫 Como me encontrar:
