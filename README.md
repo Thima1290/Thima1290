@@ -19,15 +19,15 @@ Estudante de Ciência da Computação e Estagiário de TI na SEAD-PI. Sou um ent
 ### 🏠 Hobby & Lab:
 Quando não estou codando para o estágio, estou mexendo no meu **homelab**, gerenciando servidores homemade e explorando projetos de hardware. Acredito que o aprendizado contínuo e a curiosidade são as chaves para a evolução na computação.
 
----
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Thima1290&show_icons=true&theme=tokyonight&count_private=true" alt="Estatísticas do GitHub" />
-</p>
+### 📊 Estatísticas e Skills
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thima1290&layout=compact&theme=tokyonight&hide_border=true)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thima1290&layout=compact&theme=tokyonight" alt="Linguagens mais usadas" />
-</p>
----
+| Atividade | Status |
+| :--- | :--- |
+| 🐍 Python & Automação | Avançando |
+| 🚀 Node.js & Chatbots | Ativo |
+| 📊 BI & Data Analysis | Em foco |
+| 🖥️ Infra & Homelab | Hobby |
 
 ### 📫 Como me encontrar:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thiago-marinho-690127164/)
